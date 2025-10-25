@@ -19,8 +19,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Elegant Flora Boutique",
-  description: "Beautiful AI-powered website creation platform",
+  title: "Synapse Platform | Enterprise Intelligence & Scalable Solutions",
+  description: "Unlock enterprise intelligence with Synapse Platform. Empower your team with AI-powered insights, automation, integrations, and analytics designed to scale your business.",
 };
 
 export default function RootLayout({
